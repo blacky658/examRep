@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "examDll_", "examDll_\examDll_.csproj", "{D3F812C2-CD26-4FA9-BB00-EA93727BFA0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "examDllUnit_", "examDllUnit_\examDllUnit_.csproj", "{84A07DD6-698B-400F-B69E-598E674F8660}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3F812C2-CD26-4FA9-BB00-EA93727BFA0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F812C2-CD26-4FA9-BB00-EA93727BFA0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F812C2-CD26-4FA9-BB00-EA93727BFA0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F812C2-CD26-4FA9-BB00-EA93727BFA0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84A07DD6-698B-400F-B69E-598E674F8660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84A07DD6-698B-400F-B69E-598E674F8660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84A07DD6-698B-400F-B69E-598E674F8660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84A07DD6-698B-400F-B69E-598E674F8660}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4F83285-82B8-4D11-8A4A-EA6640B7035D}
+	EndGlobalSection
+EndGlobal
